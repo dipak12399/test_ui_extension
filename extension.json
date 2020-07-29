@@ -1,0 +1,9 @@
+{
+  "id": "Dipak_test_external-api-dropdown",
+  "name": "Dipak_test External API Dropdown",
+  "srcdoc": "index.html",
+  "fieldTypes": [
+    "Symbol",
+    "Text"
+  ]
+}
